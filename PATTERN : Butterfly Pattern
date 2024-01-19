@@ -8,7 +8,7 @@
 ***    ***
 **      **
 *        *
-
+//there are two ways of second half by taking i = n and i=1
 class Main
 {
   public static void pattern (int n)
@@ -42,6 +42,9 @@ class Main
     pattern (n);
   }
 }
+//*******************************************************************************
+
+
 class Main
 {
   public static void pattern (int n)
